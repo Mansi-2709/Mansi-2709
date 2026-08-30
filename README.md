@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a7/">LinkedIn</a> •
   <a href="mailto:mansi3393@gmail.com">Email</a>
 </p>
 
@@ -122,7 +122,7 @@ I’m interested in roles where I can combine **analytics, programming, visualiz
 
 <p align="center">
   <strong>Have a data problem, project idea, or opportunity?</strong><br><br>
-  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a7/">LinkedIn</a> •
   <a href="mailto:mansi3393@gmail.com">mansi3393@gmail.com</a>
 </p>
 
