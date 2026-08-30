@@ -1,5 +1,6 @@
+<img width="1983" height="793" alt="ChatGPT Image Aug 30, 2026, 11_08_00 AM" src="https://github.com/user-attachments/assets/1d634cd2-3259-432f-b18b-5d10893b1161" />
 <p align="center">
-  <img src="./assets/linkedin-banner.png" alt="Mansi Sharma — Data Science Content Creator" width="100%">
+  <alt="Mansi Sharma — Data Science Content Creator" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mansi Sharma 👋</h1>
