@@ -131,13 +131,21 @@ I’m interested in roles where I can combine **analytics, programming, visualiz
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-2709&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-2709&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <a href="https://github.com/Mansi-2709">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mansi-2709&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Mansi's GitHub Stats">
+  </a>
+  <a href="https://github.com/Mansi-2709">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mansi-2709&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Mansi's Top Languages">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mansi-2709&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Mansi-2709&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Streak">
 </p>
+
+> **Stats note:** This README uses **GitHub-Stats-Extended**, the actively maintained successor to the older `github-readme-stats` public endpoint.
+
+---
 
 <p align="center">
   <i>Turning data into insights • Building projects • Sharing what I learn</i>
