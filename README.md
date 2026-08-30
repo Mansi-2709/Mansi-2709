@@ -1,18 +1,143 @@
-# 💫 About Me:
-💡<br>I am a Data Analyst with a strong foundation in Python, SQL, Excel, Tableau, Power BI, and Scikit-Learn, passionate about turning complex datasets into actionable business insights. With professional experience at Capgemini, Accenture, and Wipro, I bring a blend of software development expertise and analytical problem-solving skills to every project I work on.<br><br>📊 My hands-on projects showcase my ability to deliver end-to-end solutions:<br><br>Capstone Project (BIA): Fraud detection using advanced machine learning models.<br><br>Time Series Forecasting: Applied ARIMA, SARIMA, and XGBoost to predict trends.<br><br>Layoff Classification Model: Built a predictive solution to classify workforce layoffs.<br><br>Breast Cancer Prediction & Employee Satisfaction Analysis: Applied classification models to uncover insights for decision-making.<br><br>YouTube & Airline Dashboards: Designed interactive dashboards in Tableau and Power BI to derive insights from real-world data.<br><br>Streamlit Multi-page App: Developed an app integrating dashboards and ML predictions for water pollution and health analysis.<br><br>🎓 Certified in Data Science and AI (Boston Institute of Analytics) and trained in Data Analysis with Python, I continuously upskill and share my journey through practical projects and LinkedIn posts<br><br>🔎 What sets me apart is my ability to combine technical depth (SQL optimization, machine learning, data visualization) with a business-focused mindset, ensuring data isn’t just analyzed but translated into strategies that add value.<br><br>🚀 I am open to opportunities as a Data Analyst / Business Analyst / Junior Data Scientist, where I can apply my skills to solve business challenges and contribute to data-driven growth.
+<p align="center">
+  <img src="./assets/linkedin-banner.png" alt="Mansi Sharma — Data Science Content Creator" width="100%">
+</p>
 
+<h1 align="center">Hi, I'm Mansi Sharma 👋</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mansi-sharma-b728971a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansi3393@gmail.com) 
+<p align="center">
+  <strong>Data Analyst | Data Science & AI | Python | SQL | Power BI | Machine Learning</strong>
+</p>
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mansi-2709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mansi-2709&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-2709&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a">LinkedIn</a> •
+  <a href="mailto:mansi3393@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mansi-2709&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I’m a **Data Analyst with a strong foundation in Python, SQL, Excel, Tableau, Power BI, and Scikit-Learn**, passionate about turning complex datasets into clear, actionable business insights.
+
+My background combines **software development experience with data analytics and machine learning**, giving me a structured approach to solving problems—from data preparation and exploratory analysis to modeling, visualization, and communicating insights.
+
+I enjoy building practical, end-to-end projects that demonstrate how data can support better decisions.
+
+### 🔍 Core Skills
+
+- 📊 **Data Analytics:** Excel, SQL, Pandas, NumPy
+- 📈 **Business Intelligence:** Power BI, Tableau, Plotly
+- 🤖 **Machine Learning:** Scikit-Learn, XGBoost, Random Forest, Decision Trees
+- 🐍 **Programming:** Python
+- 🚀 **Apps & Deployment:** Streamlit
+- 📉 **Analytics:** EDA, classification, forecasting, model evaluation
+
+---
+
+# 🚀 Featured Projects
+
+### 🔐 Fraud Detection — Capstone Project
+Built a machine-learning solution for identifying fraudulent transactions, covering data preparation, analysis, model development, and performance evaluation.
+
+**Skills:** Python • Pandas • Scikit-Learn • Machine Learning • Classification
+
+### 📈 Time Series Forecasting
+Analyzed historical time-series patterns and applied **ARIMA, SARIMA, and XGBoost** to forecast future trends and compare forecasting approaches.
+
+**Skills:** Python • Pandas • ARIMA • SARIMA • XGBoost • Time Series
+
+### 👥 Layoff Classification Model
+Developed a predictive classification solution for workforce layoff data, using data exploration, feature preparation, machine learning, and model evaluation.
+
+**Skills:** Python • Pandas • Scikit-Learn • Classification
+
+### 🩺 Breast Cancer Prediction
+Applied classification techniques to build a predictive solution, including exploratory analysis, feature preparation, model training, and evaluation.
+
+**Skills:** Python • Pandas • Scikit-Learn • Classification
+
+### 😊 Employee Satisfaction Analysis
+Analyzed employee-related data to identify patterns and relationships that can support data-driven decision-making.
+
+**Skills:** Python • Pandas • Data Analysis • Visualization • Statistics
+
+### 📺 YouTube & ✈️ Airline Analytics Dashboards
+Designed interactive Tableau and Power BI dashboards to transform real-world datasets into accessible visual insights, trends, and business-focused analysis.
+
+**Tools:** Tableau • Power BI • Data Visualization
+
+### 🌊 Streamlit Multi-Page Analytics & ML App
+Developed an interactive multi-page Streamlit application combining dashboards, data visualization, and machine-learning prediction functionality.
+
+**Tools:** Python • Streamlit • Plotly • Machine Learning
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### SQL & BI
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Machine Learning & Visualization
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+# 📚 Data Science Content Creator
+
+I share practical, interview-focused content around:
+
+**SQL • Excel • Power BI • Python • Data Analytics • Machine Learning • Data Visualization • Real-World Projects**
+
+My focus is on making technical concepts easier to understand through practical examples, visual explanations, projects, and interview preparation.
+
+---
+
+# 🎯 Career Focus
+
+Open to opportunities as a:
+
+**Data Analyst • Business Analyst • Junior Data Scientist**
+
+I’m interested in roles where I can combine **analytics, programming, visualization, machine learning, and business problem-solving** to create meaningful insights.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <strong>Have a data problem, project idea, or opportunity?</strong><br><br>
+  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a">LinkedIn</a> •
+  <a href="mailto:mansi3393@gmail.com">mansi3393@gmail.com</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-2709&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-2709&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mansi-2709&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <i>Turning data into insights • Building projects • Sharing what I learn</i>
+</p>
