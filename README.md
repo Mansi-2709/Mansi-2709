@@ -100,16 +100,23 @@ Developed an interactive multi-page Streamlit application combining dashboards, 
 
 # 📚 Data Science Content Creator
 
-I share practical, interview-focused content around:
+I regularly share practical insights on **Data Analytics, Data Science,
+Machine Learning, SQL, Python, Excel and Power BI** on LinkedIn.
 
-**SQL • Excel • Power BI • Python • Data Analytics • Machine Learning • Data Visualization • Real-World Projects**
+My goal is to simplify technical concepts through practical examples,
+visual explanations and lessons from hands-on projects.
 
-My focus is on making technical concepts easier to understand through practical examples, visual explanations, projects, and interview preparation.
+### 📚 Explore All My Articles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansi-sharma-b728971a7/recent-activity/articles/">
+    <img src="https://img.shields.io/badge/Read_All_My_Articles-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
 # 🎯 Career Focus
-
 Open to opportunities as a:
 
 **Data Analyst • Business Analyst • Junior Data Scientist**
